@@ -1,0 +1,8 @@
+Homework 0
+
+2.(b) Explain why sometimes it is better to use the median instead of the mean of an attribute for missing values.
+Using the median instead of the mean has better performance when there exist outliers which will make the mean biased.
+
+3.(d) Time complexity = Number of entries * Number of features
+      Space complexity = Number of features
+
