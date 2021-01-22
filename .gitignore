@@ -1,0 +1,9 @@
+# ignore large data files and result files
+*.csv
+*.npy
+*.data
+*.jpg
+*.doc
+*.docx
+*.txt
+*.html
